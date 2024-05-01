@@ -87,7 +87,7 @@ body {
 }
 
 .heart.anime {
-  animation: heartbeat 0.8s 0.2s ease infinite alternate;
+  animation: heartbeat 2s 0.8s ease infinite alternate;
   position: absolute;
   cursor: auto;
 }
