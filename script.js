@@ -30,6 +30,3 @@ function refresh() {
    })
    
 }
-   /* by encodedmabel 
- linktr.ee/mabelolivera10
-   */
