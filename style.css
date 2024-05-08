@@ -378,3 +378,7 @@ button svg {
   top: 20px;
   left: 22px;
 }
+
+.maior{
+    transform: scale(1.2);
+}
